@@ -1,4 +1,4 @@
-# ${\color{blue} Sales Analysis\ using\ MySQL}$
+# ${\color{blue} Sales\ Analysis\ using\ MySQL}$
 # ✅ Objective
 - To analyze company sales data and extract valuable business insights through SQL queries.
 
